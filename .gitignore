@@ -1,6 +1,6 @@
-Lib
 Include
-Scripts
-etc
+lib
+scripts
 share
 __pycache__
+chroma_db
